@@ -1,0 +1,267 @@
+fileFormatVersion: 2
+guid: edcf76a9561d1af4db5b1708d26abc8d
+timeCreated: 1514020011
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder212
+    100004: Cylinder213
+    100006: Cylinder214
+    100008: Cylinder215
+    100010: Cylinder216
+    100012: Cylinder217
+    100014: Plane004
+    100016: Plane005
+    100018: Plane006
+    100020: Plane007
+    100022: Plane008
+    100024: Plane009
+    100026: Star001
+    100028: Star002
+    100030: Star003
+    100032: Text001
+    100034: Text002
+    100036: Text003
+    400000: //RootNode
+    400002: Cylinder212
+    400004: Cylinder213
+    400006: Cylinder214
+    400008: Cylinder215
+    400010: Cylinder216
+    400012: Cylinder217
+    400014: Plane004
+    400016: Plane005
+    400018: Plane006
+    400020: Plane007
+    400022: Plane008
+    400024: Plane009
+    400026: Star001
+    400028: Star002
+    400030: Star003
+    400032: Text001
+    400034: Text002
+    400036: Text003
+    2300000: Cylinder212
+    2300002: Cylinder213
+    2300004: Cylinder214
+    2300006: Cylinder215
+    2300008: Cylinder216
+    2300010: Cylinder217
+    2300012: Plane004
+    2300014: Plane005
+    2300016: Plane006
+    2300018: Plane007
+    2300020: Plane008
+    2300022: Plane009
+    2300024: Star001
+    2300026: Star002
+    2300028: Star003
+    2300030: Text001
+    2300032: Text002
+    2300034: Text003
+    3300000: Cylinder212
+    3300002: Cylinder213
+    3300004: Cylinder214
+    3300006: Cylinder215
+    3300008: Cylinder216
+    3300010: Cylinder217
+    3300012: Plane004
+    3300014: Plane005
+    3300016: Plane006
+    3300018: Plane007
+    3300020: Plane008
+    3300022: Plane009
+    3300024: Star001
+    3300026: Star002
+    3300028: Star003
+    3300030: Text001
+    3300032: Text002
+    3300034: Text003
+    4300000: Cylinder212
+    4300002: Cylinder213
+    4300004: Cylinder214
+    4300006: Cylinder215
+    4300008: Cylinder216
+    4300010: Cylinder217
+    4300012: Plane004
+    4300014: Plane005
+    4300016: Plane006
+    4300018: Plane007
+    4300020: Plane008
+    4300022: Plane009
+    4300024: Star001
+    4300026: Star002
+    4300028: Star003
+    4300030: Text001
+    4300032: Text002
+    4300034: Text003
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder212Mat
+    second: {fileID: 2100000, guid: 6210e09f37186cf4da7d9649b87d99ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder213Mat
+    second: {fileID: 2100000, guid: afdf7585216c51643a2b3afe10959200, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder214Mat
+    second: {fileID: 2100000, guid: be9e3274479b3da4d93dfdaeb4fa0801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder215Mat
+    second: {fileID: 2100000, guid: 592a5ac72450b11468593ec419f9f20e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder216Mat
+    second: {fileID: 2100000, guid: b5c7e32f67ff3b840b8aa94ee8bbda3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cylinder217Mat
+    second: {fileID: 2100000, guid: 8f740ea8769e8aa4fb56d59cef434260, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane004Mat
+    second: {fileID: 2100000, guid: a94ac6932da0ea6438b8d0fb5fd546d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane005Mat
+    second: {fileID: 2100000, guid: a3f77469cfd973d439039778cad56809, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane006Mat
+    second: {fileID: 2100000, guid: bb92c85c86633d143852749cb3c77eda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane007Mat
+    second: {fileID: 2100000, guid: 5e398760be3ac774c94bd1133ae01667, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane008Mat
+    second: {fileID: 2100000, guid: 1c11c0e86c63a7149856ec1945f52e2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plane009Mat
+    second: {fileID: 2100000, guid: c9769354bfbba2945b9c79e90105dad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star001Mat
+    second: {fileID: 2100000, guid: 5056bfd28b6b1544ba505853c081219a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star002Mat
+    second: {fileID: 2100000, guid: 276a21b696663b04c9754e7ef9f1ab3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Star003Mat
+    second: {fileID: 2100000, guid: 380ca780178f5674fb859755cbe7b507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text001Mat
+    second: {fileID: 2100000, guid: 4f6ff9f53be62fd40836d28a707848b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text002Mat
+    second: {fileID: 2100000, guid: d4703eb9ee1e6714596631af096a3e47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Text003Mat
+    second: {fileID: 2100000, guid: 5eb18b0afc0508549bebca26cb7741d3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: fa729db8577ebd446af7cc4c59e5e317
+timeCreated: 1514127275
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: bayrak_Plane01
+    100002: bayrak_Plane02
+    100004: bayrak_Plane04
+    100006: bayrak_Plane05
+    100008: bayrak_Plane06
+    100010: bayrak_Plane07
+    100012: bayrak_Plane08
+    100014: bayrak_Plane09
+    100016: bayrak_Plane10
+    100018: bayrak_Plane11
+    100020: bayrak_Sphere03
+    100022: //RootNode
+    400000: bayrak_Plane01
+    400002: bayrak_Plane02
+    400004: bayrak_Plane04
+    400006: bayrak_Plane05
+    400008: bayrak_Plane06
+    400010: bayrak_Plane07
+    400012: bayrak_Plane08
+    400014: bayrak_Plane09
+    400016: bayrak_Plane10
+    400018: bayrak_Plane11
+    400020: bayrak_Sphere03
+    400022: //RootNode
+    2300000: bayrak_Plane01
+    2300002: bayrak_Plane02
+    2300004: bayrak_Plane04
+    2300006: bayrak_Plane05
+    2300008: bayrak_Plane06
+    2300010: bayrak_Plane07
+    2300012: bayrak_Plane08
+    2300014: bayrak_Plane09
+    2300016: bayrak_Plane10
+    2300018: bayrak_Plane11
+    2300020: bayrak_Sphere03
+    3300000: bayrak_Plane01
+    3300002: bayrak_Plane02
+    3300004: bayrak_Plane04
+    3300006: bayrak_Plane05
+    3300008: bayrak_Plane06
+    3300010: bayrak_Plane07
+    3300012: bayrak_Plane08
+    3300014: bayrak_Plane09
+    3300016: bayrak_Plane10
+    3300018: bayrak_Plane11
+    3300020: bayrak_Sphere03
+    4300000: bayrak_Sphere03
+    4300002: bayrak_Plane01
+    4300004: bayrak_Plane02
+    4300006: bayrak_Plane04
+    4300008: bayrak_Plane05
+    4300010: bayrak_Plane06
+    4300012: bayrak_Plane07
+    4300014: bayrak_Plane08
+    4300016: bayrak_Plane09
+    4300018: bayrak_Plane10
+    4300020: bayrak_Plane11
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

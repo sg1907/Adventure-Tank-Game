@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 39d75bd1646057043829e813949d57e6
+timeCreated: 1513768066
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {instanceID: 0}
+  - m_CameraControl: {instanceID: 0}
+  - m_MessageText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
